@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カルチャー",
+  "base_artist": "Tatsuya Kitani",
+  "createdAt": "2026-02-09T11:01:37.772102Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カルチャー",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_カルチャー_キタニタツヤ.txt"
+    }
+  ]
+}
